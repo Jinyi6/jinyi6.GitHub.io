@@ -31,7 +31,6 @@
   line-height: 1.6;
   transform: none;
   height: auto;
-  padding: 20px;
 }
 
 /****** #write h1-h6 ******/
@@ -182,7 +181,7 @@ body {
   /* width: 100%; */
   height: 100%;
   margin: 0;
-  padding: 0;
+  padding: 20px;
   font-size: 14px;
   background: #ffffff;
   box-sizing: border-box;
